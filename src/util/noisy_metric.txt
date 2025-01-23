@@ -1,0 +1,5 @@
+Average SDR: 2.9721
+Average WB_PESQ: 1.2791
+Average SISDR: -4.3022
+Average NB_PESQ: 1.7471
+Average STOI: 0.7939
